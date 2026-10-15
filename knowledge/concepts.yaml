@@ -1,0 +1,4 @@
+# Agent-maintained index of knowledge entries.
+# Add one entry only when its referenced file exists.
+version: 1
+entries: []
